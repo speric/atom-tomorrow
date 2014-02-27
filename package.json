@@ -1,0 +1,12 @@
+{
+  "name": "tomorrow",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": false,
+  "description": "An Atom port of the vim Tomorrow theme",
+  "repository": "https://github.com/speric/atom-tomorrow",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
