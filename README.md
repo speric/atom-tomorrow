@@ -2,7 +2,7 @@
 
 Tomorrow is an Atom port of the vim Tomorrow theme, for syntax.
 
-![Tomorrow Syntax Theme](http://cl.ly/image/1G1i3D1Z1q0T/download/tomorrow-cap.png)
+![Tomorrow Syntax Theme](http://cl.ly/image/071z3g1y1A3A/download/tomorrow-cap.png)
 
 ### Installation
 
