@@ -1,6 +1,8 @@
-## Tomorrow Theme
+## Tomorrow Syntax Theme
 
-Tomorrow is an atom port of the vim Tomorrow theme.
+Tomorrow is an Atom port of the vim Tomorrow theme, for syntax.
+
+![Tomorrow Syntax Theme](http://cl.ly/image/1G1i3D1Z1q0T/download/tomorrow-cap.png)
 
 ### Installation
 
@@ -11,3 +13,4 @@ apm install tomorrow
 ```
 
 Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, select `Tomorrow` from the list.
+
